@@ -1,0 +1,6 @@
+{
+  "name": "Lecteur Ebook Drive",
+  "description": "Lecteur d'ebooks, PDF, CBZ et CBR avec accès Google Drive, bibliothèques personnalisées, synchronisation et favoris hors ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
